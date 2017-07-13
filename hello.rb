@@ -5,4 +5,4 @@ response = gets.chomp
 puts "So you're #{response}? "
 conf_response = gets.chomp
 
-puts "Good."
+puts "Good. "
